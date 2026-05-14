@@ -1,4 +1,4 @@
-# 
+# new Trading Bot for Polymarket - take-profit-orders and prediction-market-scanning offers the most advanced Polymarket trading-bot, with take-profit-orders and
 
 
 
